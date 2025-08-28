@@ -1,16 +1,12 @@
 [Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+version = "8.25.54"
 arch = "arm64-v8a"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
-arch = "arm64-v8a"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
@@ -21,10 +17,12 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "arm64-v8a"
 
 [YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
+excluded-patches = ""
+included-patches = ""
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 arch = "arm64-v8a"
 
 [Bandcamp]
@@ -45,11 +43,9 @@ arch = "arm64-v8a"
 
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
-arch = "arm64-v8a"
 
 [Spotify]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
-arch = "arm64-v8a"
 
 [Tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
