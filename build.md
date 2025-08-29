@@ -1,10 +1,10 @@
 Bandcamp: 3.2.3  
 Reddit: 2024.17.0  
-SoundCloud: 2025.05.27-release  
 Spotify: 9.0.74.1121  
+SoundCloud: 2025.05.27-release  
 Sync: v24.03.26-14:56  
-Tumblr (arm64-v8a): 41.0.1.100  
-Tumblr (arm-v7a): 41.0.1.100  
+Tumblr: 41.0.1.100  
+Twitter: 10.86.0-release.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
