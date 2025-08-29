@@ -1,3 +1,5 @@
+parallel-jobs = 1
+
 [Music]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -37,9 +39,8 @@ arch = "both"
 version = "auto"
 
 [Lightroom]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
-arch = "both"
 version = "auto"
 
 [Sync]
@@ -50,12 +51,12 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundclou
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [Spotify]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-arch = "both"
 version = "auto"
 
 [Tumblr]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 arch = "both"
 version = "auto"
