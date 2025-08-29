@@ -11,6 +11,7 @@ version = "8.25.54"
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [Tiktok]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
 
@@ -39,7 +40,8 @@ arch = "both"
 version = "auto"
 
 [Lightroom]
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 version = "auto"
 
