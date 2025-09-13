@@ -9,7 +9,6 @@ version = "8.25.54"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-arch = "arm64-v8a"
 
 [Tiktok]
 enabled = false
@@ -19,7 +18,7 @@ included-patches = "'SIM spoof'"
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-arch = "arm64-v8a"
+
 
 [YouTube]
 enabled = false
@@ -32,13 +31,12 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [Bandcamp]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-arch = "arm64-v8a"
+
 
 [Photos]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-arch = "both"
 version = "auto"
 
 [Lightroom]
@@ -46,25 +44,23 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 version = "auto"
-arch = "arm64-v8a"
+
 
 [Sync]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
-arch = "arm64-v8a"
 
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-arch = "arm64-v8a"
+
 
 [Spotify]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "auto"
-arch = "arm64-v8a"
+
 
 [Tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
-arch = "arm64-v8a"
 version = "auto"
