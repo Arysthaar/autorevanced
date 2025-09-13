@@ -9,16 +9,18 @@ version = "8.25.54"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+version = "auto"
 
 [Tiktok]
 enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 included-patches = "'SIM spoof'"
+version = "auto"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-
+version = "auto"
 
 [YouTube]
 enabled = false
@@ -31,7 +33,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [Bandcamp]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/bandcamp-inc/bandcamp/"
-
+version = "auto"
 
 [Photos]
 enabled = false
@@ -48,11 +50,12 @@ version = "auto"
 
 [Sync]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/sync-apps-ltd/sync-for-lemmy/"
+version = "auto"
 
 [SoundCloud]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundcloud/"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-
+version = "auto"
 
 [Spotify]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
